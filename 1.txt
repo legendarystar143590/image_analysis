@@ -1,0 +1,69 @@
+Background: # The background of the image
+Green
+Blue
+Red
+Shed
+Brown
+Ketchup Market
+Orange
+Yellow
+Forest
+Sky
+Pink
+Black
+Grey
+Town
+Purple
+
+Hair: # The color of the hair
+Brown
+Grey
+Orange
+Blonde
+Blue
+Black
+Red
+PinkWhite
+Purple
+Green
+
+Top: # The color of the top clothes
+Blue Work
+Pink Work
+White WorkPurple Work
+Blue SleevelessPurple SleevelessOrange Sleeveless
+Pink School
+Navy Blue School
+Light Blue School
+Classic School
+Orange Polo
+Orange Tee
+Cocktail
+Pink CropRed HalterPink Halter
+
+Kethcup: # The number of ketchup bottles
+1 Bottle
+2 Bottles
+
+Weapon: # The weapon that character is holding
+None
+Oh Yes
+
+Mood: # The mood of the character
+Dubious
+Curious
+Suspicious
+Amazed
+Peaceful
+Frenly
+Serious
+
+Accessories: # The accessories of the character
+None
+Tomatoes
+
+Rating: # The rating of the heartness of the image
+7
+8
+9
+10
